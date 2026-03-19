@@ -49,7 +49,7 @@ Maliyet Grafiği **En Dusuk Maliyet Hesaplamali Yol Optimizasyonu Proje Raporu.p
 
 Bu projenin matematiksel arka planı, Single-Thread vs Multi-Thread performans karşılaştırması ve yukarıdaki grafiğin detaylı analizi için hazırladığım proje raporunu inceleyebilirsiniz.
 
-📄 **[Proje Detaylı Analiz Raporunu Görüntülemek İçin Tıklayın](./En Dusuk Maliyet Hesaplamali Yol Optimizasyonu Proje Raporu.pdf)**
+**[Proje Detaylı Analiz Raporunu Görüntülemek İçin Tıklayın](./En%20Dusuk%20Maliyet%20Hesaplamali%20Yol%20Optimizasyonu%20Proje%20Raporu.pdf)**
 
 ---
 
